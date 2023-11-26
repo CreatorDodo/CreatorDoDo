@@ -26,7 +26,7 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/intellijidea%20IDE-2C2255?style=flat&logo=IntelliJIDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/intellijidea%20IDE-2C2255?style=flat&logo=IntelliJ IDEAE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
