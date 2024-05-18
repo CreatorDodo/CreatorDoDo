@@ -51,6 +51,9 @@
 	<a href="https://github.com/CreatorDodo">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
+	<a href="https://hhpluscertificateofcompletion.oopy.io/">
+<img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
 	<br>
 </div>
 
