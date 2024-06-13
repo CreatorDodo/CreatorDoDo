@@ -45,9 +45,6 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.notion.so/Portfolio-04da17d3739f4fd5b8c39108599aaa1d?pvs=4">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
 	<a href="https://github.com/CreatorDodo">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	</a>
