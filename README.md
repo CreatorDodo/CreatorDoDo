@@ -50,7 +50,7 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-	<div align=center>
+	<div align=center class="icon-container">
 	<a href="https://medium.com/@Dodo3">
 	    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white" />
 	</a>
