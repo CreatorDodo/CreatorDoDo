@@ -1,9 +1,3 @@
-<style>
-  .icon-container a {
-    margin: 0 5px; /* 원하는 간격으로 조정 */
-  }
-</style>
-
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dodo%20GitHub&fontSize=90&animation=fadeIn" />	
 </div>
@@ -50,21 +44,13 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-	<div align=center class="icon-container">
-	<a href="https://medium.com/@Dodo3">
-	    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/creatordodo/">
-	    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="https://x.com/CreatorDodo369">
-	    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=X&logoColor=white" />
-	</a>
-	<a href="https://hhpluscertificateofcompletion.oopy.io/">
-		<img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-	</a>
-	<br>
-</div>
+	<div align="center">
+		<a href="https://medium.com/@Dodo3"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white" ></a>
+		<a href="https://www.linkedin.com/in/creatordodo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
+		<a href="https://x.com/CreatorDodo369"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=X&logoColor=white" /></a>
+		<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" /></a>
+		<br>
+	</div>
 
 <div align=center>
 	<br>
