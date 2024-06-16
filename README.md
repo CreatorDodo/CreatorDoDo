@@ -1,3 +1,9 @@
+<style>
+  .icon-container a {
+    margin: 0 5px; /* 원하는 간격으로 조정 */
+  }
+</style>
+
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dodo%20GitHub&fontSize=90&animation=fadeIn" />	
 </div>
