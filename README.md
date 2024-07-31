@@ -6,7 +6,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/JAVA-3776AB?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/GoLang-3776AB?style=flat&logo=Go&logoColor=white" />
 		<br>
 	<img src="https://img.shields.io/badge/React-007396?style=flat&logo=React&logoColor=white" />
