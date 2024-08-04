@@ -20,7 +20,7 @@
 		<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-333333?style=flat&logo=Fluentd&logoColor=white" />
 		<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -36,16 +36,17 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 		<br>
 	<img src="https://img.shields.io/badge/Tomcat-4479A1?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=GitLab&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitLab-333333?style=flat&logo=GitLab&logoColor=white" />
 </div>
 		<br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 	<div align="center">
-		<a href="https://medium.com/@Dodo3"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=Medium&logoColor=white" ></a>
+		<a href="https://medium.com/@Dodo3"><img src="https://img.shields.io/badge/Medium-333333?style=flat&logo=Medium&logoColor=white" ></a>
 		<a href="https://www.linkedin.com/in/creatordodo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
+		<a href="https://dev.to/creatordodo"><img src="https://img.shields.io/badge/Dev.to-333333?style=flat&logo=dev.to&logoColor=white"></a>
 		<a href="https://x.com/CreatorDodo369"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=X&logoColor=white" /></a>
 		<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" /></a>
 		<br>
