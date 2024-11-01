@@ -1,60 +1,88 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dodo%20GitHub&fontSize=90&animation=fadeIn" />	
-</div>
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/GoLang-3776AB?style=flat&logo=Go&logoColor=white" />
-		<br>
-	<img src="https://img.shields.io/badge/React-007396?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Vue.js-1572B6?style=flat&logo=Vue.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-		<br>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=TypeScript&logoColor=white" />
-		<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-333333?style=flat&logo=Fluentd&logoColor=white" />
-		<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat&logo=MongoDB&logoColor=white" />
-</div>
-		<br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEAE-2C2255?style=flat&logo=intellijidea&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-		<br>
-	<img src="https://img.shields.io/badge/Tomcat-4479A1?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitLab-333333?style=flat&logo=GitLab&logoColor=white" />
-</div>
-		<br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-	<div align="center">
-		<a href="https://medium.com/@Dodo3"><img src="https://img.shields.io/badge/Medium-333333?style=flat&logo=Medium&logoColor=white" ></a>
-		<a href="https://www.linkedin.com/in/creatordodo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
-		<a href="https://dev.to/creatordodo"><img src="https://img.shields.io/badge/Dev.to-333333?style=flat&logo=dev.to&logoColor=white"></a>
-		<a href="https://x.com/CreatorDodo369"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=X&logoColor=white" /></a>
-		<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" /></a>
-		<br>
-	</div>
+### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCreatorDodo&count_bg=%23FFB800&title_bg=%23555555&icon=&icon_color=%23FFD700&title=Profile%20views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align=center>
-	<br>
-	<br>
-	<br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCreatorDodo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>               
-</div>
+## CreatorDodo
+Doyoung Kim<br/>
+@CreatorDodo<br/>
+difbfl4750@gmail.com<br/>
+Seoul, Korea<br/>
+
+## 🛠 &nbsp;Technical Skills
+**Languages** : 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;\
+<br>
+**BE**: 
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=Fluentd)&nbsp;
+![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-05122A?style=flat&logo=Apache%20Tomcat)&nbsp;\
+<br>
+**FE** : 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-05122A?style=flat&logo=DaisyUI)&nbsp;
+![AntDesign](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=AntDesign)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;\
+<br>
+**Databases**: ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-05122A?style=flat&logo=oracle)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;\
+<br>
+**Tools**: 
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=EclipseIDE)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![Gerrit](https://img.shields.io/badge/-Gerrit-05122A?style=flat&logo=gerrit)&nbsp;\
+<br>
+
+## 💻 &nbsp;GitHub Analytics
+[![Github stats](https://github-readme-stats.vercel.app/api?username=CreatorDodo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/CreatorDodo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorDodo&layout=compact&theme=algolia)](https://github.com/CreatorDodo/github-readme-stats)
+
+## 🌻 &nbsp;GitHub Animals
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{CreatorDodo}"/>
+</a>
+
+## 📫 &nbsp;Links
+<a href=""><img src="https://img.shields.io/badge/Porfoilo-Web-blue"/></a>
+<a href="https://medium.com/@Dodo3"><img src="https://img.shields.io/badge/Medium-333333?style=flat&logo=Medium&logoColor=white" ></a>
+<a href="mailto:difbfl4750@gmail.com"><img src="https://img.shields.io/badge/-difbfl4750@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/creatordodo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://dev.to/creatordodo"><img src="https://img.shields.io/badge/Dev.to-333333?style=flat&logo=dev.to&logoColor=white"></a>
+
+## ⚡ Badges
+<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" /></a>
+
+
+
+<!--
+**CreatorDodo/CreatorDoDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on CreatorDodo GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
