@@ -57,7 +57,11 @@ Seoul, Korea<br/>
 
 ## 🌻 &nbsp;GitHub Animals
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/CreatorDodo"/>
+<img
+  src="https://render.gitanimals.org/farms/CreatorDodo"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## 📫 &nbsp;Links
