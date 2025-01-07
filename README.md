@@ -69,7 +69,6 @@ Seoul, Korea<br/>
 <a href="https://medium.com/@Dodo3"><img src="https://img.shields.io/badge/Medium-333333?style=flat&logo=Medium&logoColor=white" ></a>
 <a href="mailto:difbfl4750@gmail.com"><img src="https://img.shields.io/badge/-difbfl4750@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/creatordodo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://dev.to/creatordodo"><img src="https://img.shields.io/badge/Dev.to-333333?style=flat&logo=dev.to&logoColor=white"></a>
 
 ## ⚡ Badges
 <a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" /></a>
