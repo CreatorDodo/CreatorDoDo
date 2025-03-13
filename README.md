@@ -29,6 +29,7 @@ Seoul, Korea<br/>
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![shadCN](https://img.shields.io/badge/-shadCN-05122A?style=flat&logo=shadCN)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-05122A?style=flat&logo=DaisyUI)&nbsp;
 ![AntDesign](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=AntDesign)&nbsp;
