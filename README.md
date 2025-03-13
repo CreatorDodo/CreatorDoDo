@@ -32,7 +32,6 @@ Seoul, Korea<br/>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-05122A?style=flat&logo=DaisyUI)&nbsp;
 ![AntDesign](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=AntDesign)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;\
 <br>
