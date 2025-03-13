@@ -19,10 +19,12 @@ Seoul, Korea<br/>
 **BE**: 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![MyBatis](https://img.shields.io/badge/-MyBatis-05122A?style=flat&logo=Fluentd)&nbsp;
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-05122A?style=flat&logo=Apache%20Tomcat)&nbsp;\
+![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-05122A?style=flat&logo=Apache%20Tomcat)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;\
 <br>
 **FE** : 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
