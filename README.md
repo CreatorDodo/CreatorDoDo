@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCreatorDodo&count_bg=%23FFB800&title_bg=%23555555&icon=&icon_color=%23FFD700&title=Profile%20views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ## CreatorDodo
 Doyoung Kim<br/>
