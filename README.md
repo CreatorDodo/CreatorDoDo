@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FCreatorDodo?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FCreatorDodo?color=yellow&label=hits&size=small)](https://myhits.vercel.app)
 
 ## CreatorDodo
 Doyoung Kim<br/>
