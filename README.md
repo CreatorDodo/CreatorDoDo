@@ -53,7 +53,7 @@ Seoul, Korea<br/>
 <br>
 
 ## 💻 &nbsp;GitHub Analytics
-[![Github stats](https://github-readme-stats.vercel.app/api?username=CreatorDodo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/CreatorDodo/github-readme-stats)
+[![CreatorDodo GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorDodo&show_icons=true&theme=algolia)](https://github.com/CreatorDodo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorDodo&layout=compact&theme=algolia)](https://github.com/CreatorDodo/github-readme-stats)
 
 ## 🌻 &nbsp;GitHub Animals
